@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import readline from "readline";
 
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyBtQPCjQsBBBWSdLxnBhI8Zy4ns-jjiJ_g"
+  apiKey: "AIzaSyBtQPCjQsBBBWiJ_g"
 });
 
 const rl = readline.createInterface({
